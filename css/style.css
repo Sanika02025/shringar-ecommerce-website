@@ -56,7 +56,15 @@ body {
   padding: 0 8%;
   background: linear-gradient(to right, #fff9f4 55%, #f4e7d3 45%);
 }
-
+.hero-tag{
+    display:inline-block;
+    background:#d4af37;
+    color:white;
+    padding:8px 18px;
+    border-radius:50px;
+    margin-bottom:20px;
+    font-size:.9rem;
+}
 .hero-content {
   flex: 1;
 }
@@ -97,7 +105,8 @@ body {
 }
 
 .hero-image img {
-  width: 450px;
+ width:100%;
+ max-width:500px;
   border-radius: 20px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
@@ -113,16 +122,16 @@ body {
 }
 .category-grid{
     display:grid;
-    grid-template-columns:repeat(2,1fr);
+    grid-template-columns:repeat(5,1fr);
     gap:30px;
-
-    max-width:1200px;
+    max-width:2200px;
     margin:50px auto;
 }
 .saree,
 .jewellery,
 .lehenga,
-.kurti{
+.kurti,
+.blouse{
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -191,7 +200,8 @@ body {
   background-position: center;
 }
 .featured-products {
-  padding: 100px 8%;
+  padding:120px 8%;
+    background:white;
 }
 .section-header {
   text-align: center;
@@ -207,10 +217,11 @@ body {
   font-size: 1rem;
   color: #777;
 }
-.product-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 30px;
+.product-grid{
+  display:grid;
+  grid-template-columns:
+  repeat(auto-fit,minmax(260px,1fr));
+  gap:30px;
 }
 .product-card {
   background: white;
@@ -225,13 +236,14 @@ body {
 }
 .product-image {
   position: relative;
-  height: 320px;
+  height: 420px;
   overflow: hidden;
 }
 .product-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit:cover;
+  object-position:center top;
   transition: 0.5s;
 }
 .product-card:hover img {
@@ -288,4 +300,303 @@ body {
 }
 .product-info button:hover {
   background: #d4af37;
+}
+.why-shringar{
+    padding:100px 8%;
+    background:#fdf3ea;
+}
+.features-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:30px;
+    margin-top:50px;
+}
+.feature-card{
+    background:white;
+    padding:35px;
+    border-radius:20px;
+    text-align:center;
+    transition:.3s;
+    box-shadow:0 10px 20px rgba(0,0,0,.08);
+}
+.feature-card:hover{
+    transform:translateY(-8px);
+}
+.feature-card h3{
+    color:#6d071a;
+    margin-bottom:15px;
+}
+.footer{
+    background:#3b0d16;
+    color:white;
+    padding-top:70px;
+}
+.footer-container{
+    width:85%;
+    margin:auto;
+
+    display:grid;
+    grid-template-columns:
+    repeat(auto-fit,minmax(220px,1fr));
+
+    gap:40px;
+}
+.footer-col h2,
+.footer-col h3{
+    margin-bottom:20px;
+    color:#d4af37;
+}
+
+.footer-col p{
+    line-height:1.8;
+}
+
+.footer-col ul{
+    list-style:none;
+}
+
+.footer-col ul li{
+    margin-bottom:12px;
+}
+
+.footer-col ul li a{
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+.footer-col ul li a:hover{
+    color:#d4af37;
+}
+.footer-bottom{
+    text-align:center;
+    padding:25px;
+    margin-top:50px;
+    border-top:1px solid rgba(255,255,255,.15);
+}
+.wedding-season{
+    padding:100px 8%;
+}
+.wedding-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:25px;
+}
+.wedding-card{
+    height:380px;
+    border-radius:20px;
+    position:relative;
+    overflow:hidden;
+    cursor:pointer;
+    transition:.4s;
+    background-size:cover;
+    background-position:center;
+}
+.wedding-card:hover{
+    transform:translateY(-8px);
+}
+.wedding-card::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:linear-gradient(
+    to top,
+    rgba(0,0,0,.65),
+    rgba(0,0,0,.1)
+    );
+}
+.wedding-card h3{
+    position:absolute;
+    bottom:25px;
+    left:25px;
+    color:white;
+    z-index:2;
+    font-size:1.8rem;
+    font-family:'Playfair Display',serif;
+}
+.haldi{
+background:url("../images/haldi.jpg");
+background-size:cover;
+background-position:center;
+}
+.mehendi{
+background:url("../images/mehn.jpg");
+background-size:cover;
+background-position:center;
+}
+.sangeet{
+background:url("../images/san.jpg");
+background-size:cover;
+background-position:center;
+}
+.reception{
+background:url("../images/rec.jpg");
+background-size:cover;
+background-position:center;
+}
+.bridal{
+background:url("../images/bri.jpg");
+background-size:cover;
+background-position:center;
+}
+.guest{
+background:url("../images/gue.jpg");
+background-size:cover;
+background-position:center;
+}
+.heritage{
+    padding:120px 8%;
+    background:#fdf3ea;
+}
+.heritage-grid{
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(280px,1fr));
+    gap:30px;
+}
+.heritage-card{
+    background:white;
+    padding:40px;
+    border-radius:24px;
+    text-align:center;
+    transition:.4s;
+    box-shadow:
+    0 10px 25px rgba(0,0,0,.08);
+}
+.heritage-card:hover{
+    transform:translateY(-10px);
+    background:#6d071a;
+    color:white;
+}
+.heritage-card h3{
+    margin-bottom:12px;
+    font-size:1.5rem;
+    font-family:'Playfair Display',serif;
+}
+.heritage-card p{
+    line-height:1.7;
+}
+.blouse{
+    background:url("../images/bl.jpg");
+    background-size:cover;
+    background-position:center;
+}
+.trending{
+    padding:100px 8%;
+    background:white;
+}
+.trending-grid{
+    display:grid;
+    grid-template-columns:
+    repeat(auto-fit,minmax(250px,1fr));
+    gap:25px;
+}
+.trend-card{
+    background:white;
+    padding:50px 20px;
+    text-align:center;
+    border-radius:20px;
+    box-shadow:
+    0 10px 25px rgba(0,0,0,.08);
+    transition:.4s;
+}
+.trend-card:hover{
+    transform:translateY(-8px);
+    background:#6d071a;
+    color:white;
+}
+.trend-card h3{
+    font-size:1.3rem;
+}
+.wedding-content{
+    position:absolute;
+    bottom:25px;
+    left:25px;
+    z-index:2;
+    color:white;
+}
+.wedding-content p{
+    margin-top:8px;
+    font-size:.9rem;
+}
+.couple-collection{
+    padding:120px 8%;
+}
+.couple-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+    gap:30px;
+}
+.couple-card{
+    height:400px;
+    border-radius:24px;
+    overflow:hidden;
+    position:relative;
+    cursor:pointer;
+    transition:.4s;
+    background-size:cover;
+    background-position:center;
+}
+.couple-card:hover{
+    transform:translateY(-10px);
+}
+.couple-card::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:linear-gradient(
+    to top,
+    rgba(0,0,0,.7),
+    rgba(0,0,0,.15)
+    );
+}
+.couple-card h3{
+    position:absolute;
+    bottom:25px;
+    left:25px;
+    color:white;
+    z-index:2;
+    font-size:2rem;
+    font-family:'Playfair Display',serif;
+}
+.engagement{
+background:url("../images/engco.jpg");
+background-size:cover;
+background-position:center;
+}
+.haldi-couple{
+background:url("../images/haldc.jpg");
+background-size:cover;
+background-position:center;
+}
+.mehendi-couple{
+background:url("../images/mehc.jpg");
+background-size:cover;
+background-position:center;
+}
+.reception-couple{
+background:url("../images/crec.jpg");
+background-size:cover;
+background-position:center;
+}
+.traditional-couple{
+background:url("../images/tradc.jpg");
+background-size:cover;
+background-position:center;
+}
+.festive-couple{
+background:url("../images/festtwic.jpg");
+background-size:cover;
+background-position:center;
+}
+.wedding-content{
+    position:absolute;
+    bottom:25px;
+    left:25px;
+    z-index:2;
+    color:white;
+}
+.wedding-content p{
+    margin-top:8px;
+    font-size:.9rem;
 }
