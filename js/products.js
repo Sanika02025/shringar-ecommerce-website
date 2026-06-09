@@ -922,5 +922,169 @@ occasion:"Bridal",
 price:18999,
 image:"images/kanji16.jpg"
 },
+{
+id:86,
+name:"Rangmahal Banarasi Saree",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Wedding",
+price:8499,
+image:"images/ban2.jpg"
+},
+
+{
+id:87,
+name:"Jangla Banarasi Silk",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Bridal",
+price:12999,
+image:"images/ban1.jpg"
+},
+
+{
+id:88,
+name:"Kadhua Weave Banarasi",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Wedding",
+price:11499,
+image:"images/ban3.jpg"
+},
+
+{
+id:89,
+name:"Meenakari Banarasi Saree",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Reception",
+price:9999,
+image:"images/ban4.jpg"
+},
+
+{
+id:90,
+name:"Shikargah Banarasi Saree",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Traditional",
+price:11999,
+image:"images/ban5.jpg"
+},
+
+{
+id:91,
+name:"Tilfi Silk Banarasi",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Bridal",
+price:13999,
+image:"images/ban6.jpg"
+},
+
+{
+id:92,
+name:"Rani Butidar Banarasi",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Wedding",
+price:9599,
+image:"images/ban7.jpg"
+},
+
+{
+id:93,
+name:"Ambi Motif Banarasi",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Reception",
+price:8999,
+image:"images/ban8.jpg"
+},
+
+{
+id:94,
+name:"Kadambari Banarasi Silk",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Wedding",
+price:10499,
+image:"images/ban9.jpg"
+},
+
+{
+id:95,
+name:"Gulbahar Banarasi Saree",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Reception",
+price:9299,
+image:"images/ban10.jpg"
+},
+
+{
+id:96,
+name:"Ratnajali Banarasi Weave",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Bridal",
+price:14499,
+image:"images/ban11.jpg"
+},
+
+{
+id:97,
+name:"Panna Jaal Banarasi",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Wedding",
+price:10299,
+image:"images/ban12.jpg"
+},
+
+{
+id:98,
+name:"Heritage Buta Banarasi",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Traditional",
+price:9499,
+image:"images/ban13.jpg"
+},
+
+{
+id:99,
+name:"Madhubani Inspired Banarasi",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Reception",
+price:10999,
+image:"images/ban14.jpg"
+},
+
+{
+id:100,
+name:"Rajgharana Banarasi Silk",
+category:"Saree",
+type:"Banarasi",
+heritage:"North Indian",
+occasion:"Bridal",
+price:14999,
+image:"images/ban15.jpg"
+}
 
 ];
