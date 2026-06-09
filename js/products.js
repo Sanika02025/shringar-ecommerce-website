@@ -1085,6 +1085,115 @@ heritage:"North Indian",
 occasion:"Bridal",
 price:14999,
 image:"images/ban15.jpg"
-}
+},
 
+{
+id:101,
+name:"Double Ikat Patola Saree",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Wedding",
+price:15999,
+image:"images/pat1.jpg"
+},
+
+{
+id:102,
+name:"Navratna Patola Weave",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Traditional",
+price:14499,
+image:"images/pat2.jpg"
+},
+
+{
+id:103,
+name:"Nari Kunjar Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Wedding",
+price:16999,
+image:"images/pat3.jpg"
+},
+
+{
+id:108,
+name:"Traditional Rajkot Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Traditional",
+price:12999,
+image:"images/pat8.jpg"
+},
+
+{
+id:109,
+name:"Lotus Grid Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Reception",
+price:14599,
+image:"images/pat9.jpg"
+},
+
+{
+id:111,
+name:"Heritage Ikat Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Traditional",
+price:15499,
+image:"images/pat11.jpg"
+},
+
+{
+id:112,
+name:"Floral Jaal Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Reception",
+price:13999,
+image:"images/pat12.jpg"
+},
+
+{
+id:113,
+name:"Patan Classic Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Wedding",
+price:17999,
+image:"images/pat13.jpg"
+},
+
+{
+id:114,
+name:"Geometric Ikat Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Festival",
+price:12499,
+image:"images/pat14.jpg"
+},
+
+{
+id:115,
+name:"Royal Patan Patola",
+category:"Saree",
+type:"Patola",
+heritage:"Gujarati",
+occasion:"Bridal",
+price:18999,
+image:"images/pat15.jpg"
+},
 ];
