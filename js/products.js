@@ -1305,4 +1305,113 @@ occasion:"Wedding",
 price:7999,
 image:"images/org10.jpg"
 },
+{
+id:136,
+name:"Midnight Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Sangeet",
+price:6999,
+image:"images/seq1.jpg"
+},
+
+{
+id:137,
+name:"Rose Gold Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Reception",
+price:7499,
+image:"images/seq2.jpg"
+},
+
+{
+id:138,
+name:"Champagne Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Cocktail",
+price:7999,
+image:"images/seq3.jpg"
+},
+
+{
+id:139,
+name:"Ombre Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Party",
+price:6499,
+image:"images/seq4.jpg"
+},
+
+{
+id:140,
+name:"Pearl Embellished Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Reception",
+price:8599,
+image:"images/seq.jpg"
+},
+
+{
+id:141,
+name:"Mirror Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Sangeet",
+price:7299,
+image:"images/seq6.jpg"
+},
+
+{
+id:142,
+name:"Shimmer Drape Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Cocktail",
+price:6999,
+image:"images/seq7.jpg"
+},
+
+{
+id:143,
+name:"Designer Party Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Party",
+price:8999,
+image:"images/seq8.jpg"
+},
+
+{
+id:144,
+name:"Crystal Work Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Reception",
+price:9499,
+image:"images/seq9.jpg"
+},
+
+{
+id:145,
+name:"Statement Sequin Saree",
+category:"Saree",
+type:"Sequin",
+heritage:"Modern",
+occasion:"Cocktail",
+price:8299,
+image:"images/seq10.jpg"
+},
 ];
