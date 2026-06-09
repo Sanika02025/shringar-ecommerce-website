@@ -1522,5 +1522,114 @@ heritage:"Modern",
 occasion:"Party",
 price:7499,
 image:"images/geo10.jpg"
+},
+{
+id:156,
+name:"Traditional Temple Necklace Set",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Wedding",
+price:4999,
+image:"images/temp1.jpg"
+},
+
+{
+id:157,
+name:"Lakshmi Temple Haram",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Bridal",
+price:6999,
+image:"images/temp2.jpg"
+},
+
+{
+id:158,
+name:"Antique Temple Choker",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Wedding",
+price:3499,
+image:"images/temp3.jpg"
+},
+
+{
+id:159,
+name:"Temple Coin Necklace",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Traditional",
+price:2999,
+image:"images/temp4.jpg"
+},
+
+{
+id:160,
+name:"Temple Jewellery Bridal Set",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Bridal",
+price:8999,
+image:"images/temp5.jpg"
+},
+
+{
+id:161,
+name:"Peacock Temple Necklace",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Wedding",
+price:5499,
+image:"images/temp6.jpg"
+},
+
+{
+id:162,
+name:"Temple Jhumka Set",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Festival",
+price:2499,
+image:"images/temp7.jpg"
+},
+
+{
+id:163,
+name:"Temple Long Haram",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Bridal",
+price:7499,
+image:"images/temp8.jpg"
+},
+
+{
+id:164,
+name:"Goddess Motif Temple Set",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Wedding",
+price:26499,
+image:"images/temp9.jpg"
+},
+
+{
+id:165,
+name:"Heritage Temple Jewellery",
+category:"Jewellery",
+type:"Temple",
+heritage:"South Indian",
+occasion:"Traditional",
+price:5999,
+image:"images/temp10.jpg"
 }
 ];
