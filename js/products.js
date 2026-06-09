@@ -1741,4 +1741,113 @@ occasion:"Bridal",
 price:69999,
 image:"images/kun10.jpg"
 },
+{
+id:176,
+name:"Solitaire Diamond Necklace",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Reception",
+price:12999,
+image:"images/dia1.jpg"
+},
+
+{
+id:177,
+name:"Diamond Bridal Set",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Bridal",
+price:18999,
+image:"images/dia2.jpg"
+},
+
+{
+id:178,
+name:"Diamond Choker Set",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Reception",
+price:14999,
+image:"images/dia3.jpg"
+},
+
+{
+id:179,
+name:"Floral Diamond Necklace",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Wedding",
+price:11999,
+image:"images/dia4.jpg"
+},
+
+{
+id:180,
+name:"Diamond Drop Earrings",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Party",
+price:5999,
+image:"images/dia5.jpg"
+},
+
+{
+id:181,
+name:"Contemporary Diamond Set",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Reception",
+price:13999,
+image:"images/dia6.jpg"
+},
+
+{
+id:182,
+name:"Diamond Tennis Necklace",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Wedding",
+price:15999,
+image:"images/dia7.jpg"
+},
+
+{
+id:183,
+name:"Luxury Diamond Jewellery Set",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Bridal",
+price:21999,
+image:"images/dia8.jpg"
+},
+
+{
+id:184,
+name:"Diamond Pendant Collection",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Casual",
+price:4999,
+image:"images/dia9.jpg"
+},
+
+{
+id:185,
+name:"Statement Diamond Necklace",
+category:"Jewellery",
+type:"Diamond",
+heritage:"Modern",
+occasion:"Reception",
+price:16999,
+image:"images/dia10.jpg"
+},
 ];
