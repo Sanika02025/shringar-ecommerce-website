@@ -1414,4 +1414,113 @@ occasion:"Cocktail",
 price:8299,
 image:"images/seq10.jpg"
 },
+{
+id:146,
+name:"Floral Print Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Casual",
+price:2999,
+image:"images/geo1.jpg"
+},
+
+{
+id:147,
+name:"Embroidered Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Reception",
+price:4999,
+image:"images/geo2.jpg"
+},
+
+{
+id:148,
+name:"Designer Party Georgette",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Party",
+price:5499,
+image:"images/geo3.jpg"
+},
+
+{
+id:149,
+name:"Leheriya Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Rajasthani",
+occasion:"Festival",
+price:3999,
+image:"images/geo4.jpg"
+},
+
+{
+id:150,
+name:"Stone Work Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Sangeet",
+price:6499,
+image:"images/geo5.jpg"
+},
+
+{
+id:151,
+name:"Foil Print Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Party",
+price:4599,
+image:"images/geo6.jpg"
+},
+
+{
+id:152,
+name:"Ruffle Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Reception",
+price:6999,
+image:"images/geo7.jpg"
+},
+
+{
+id:153,
+name:"Mirror Work Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Gujarati",
+occasion:"Mehendi",
+price:5999,
+image:"images/geo8.jpg"
+},
+
+{
+id:154,
+name:"Digital Print Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Casual",
+price:3499,
+image:"images/geo9.jpg"
+},
+
+{
+id:155,
+name:"Ready To Wear Georgette Saree",
+category:"Saree",
+type:"Georgette",
+heritage:"Modern",
+occasion:"Party",
+price:7499,
+image:"images/geo10.jpg"
+}
 ];
