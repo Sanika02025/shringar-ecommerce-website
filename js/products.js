@@ -600,9 +600,9 @@ name:"Traditional Nauvari Saree",
 category:"Saree",
 type:"Nauvari",
 heritage:"Maharashtrian",
-occasion:"Festival",
+occasion:"Wedding",
 price:4999,
-image:"images/nauvari1.jpg"
+image:"images/navt.jpg"
 },
 
 {
@@ -635,7 +635,7 @@ type:"Nauvari",
 heritage:"Maharashtrian",
 occasion:"Wedding",
 price:6599,
-image:"images/nauvari4.jpg"
+image:"images/navq.jpg"
 },
 
 {
@@ -646,7 +646,7 @@ type:"Nauvari",
 heritage:"Maharashtrian",
 occasion:"Bridal",
 price:11999,
-image:"images/nauvari5.jpg"
+image:"images/navp2.jpg"
 },
 
 {
@@ -657,7 +657,7 @@ type:"Nauvari",
 heritage:"Maharashtrian",
 occasion:"Wedding",
 price:7999,
-image:"images/nauvari6.jpg"
+image:"images/navg.jpeg"
 },
 
 {
@@ -712,7 +712,7 @@ type:"Nauvari",
 heritage:"Maharashtrian",
 occasion:"Bridal",
 price:10999,
-image:"images/nav4.jpg"
+image:"images/navp.jpg"
 },
 
 {
@@ -745,7 +745,7 @@ type:"Nauvari",
 heritage:"Maharashtrian",
 occasion:"Wedding",
 price:9499,
-image:"images/nauvari14.jpg"
+image:"images/navpr.jpg"
 },
 
 {
@@ -758,4 +758,169 @@ occasion:"Reception",
 price:8999,
 image:"images/navv15.jpg"
 },
+{
+id:71,
+name:"Royal Gold Kanjivaram Saree",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Wedding",
+price:9999,
+image:"images/kanji2.jpg"
+},
+
+{
+id:72,
+name:"Temple Border Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Temple",
+price:8499,
+image:"images/kanji3.jpg"
+},
+
+{
+id:73,
+name:"Bridal Red Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Bridal",
+price:14999,
+image:"images/kanji4.jpg"
+},
+
+{
+id:74,
+name:"Motif Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Wedding",
+price:10999,
+image:"images/kanji5.jpg"
+},
+
+{
+id:75,
+name:"Purple Silk Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Reception",
+price:8999,
+image:"images/kanji6.webp"
+},
+
+{
+id:76,
+name:"Traditional Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Festival",
+price:7999,
+image:"images/kanji7.jpg"
+},
+
+{
+id:77,
+name:"Wedding Special Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Wedding",
+price:11999,
+image:"images/kanji8.jpg"
+},
+
+{
+id:78,
+name:"Classic Maroon Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Reception",
+price:9499,
+image:"images/kanji9.jpg"
+},
+
+{
+id:79,
+name:"Golden Zari Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Wedding",
+price:12999,
+image:"images/kanji10.webp"
+},
+
+{
+id:80,
+name:"Royal Blue Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Festival",
+price:8999,
+image:"images/kanji11.jpg"
+},
+
+{
+id:81,
+name:"Bridal Silk Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Bridal",
+price:15999,
+image:"images/kanji12.webp"
+},
+
+{
+id:82,
+name:"Heritage Kanjivaram Collection",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Traditional",
+price:9999,
+image:"images/kanji13.jpg"
+},
+
+{
+id:83,
+name:"Pink Wedding Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Wedding",
+price:10999,
+image:"images/kanji14.jpg"
+},
+
+{
+id:84,
+name:"Premium Temple Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Temple",
+price:11999,
+image:"images/kanji15.webp"
+},
+
+{
+id:85,
+name:"Luxury Bridal Kanjivaram",
+category:"Saree",
+type:"Kanjivaram",
+heritage:"South Indian",
+occasion:"Bridal",
+price:18999,
+image:"images/kanji16.jpg"
+},
+
 ];
