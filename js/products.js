@@ -1631,5 +1631,114 @@ heritage:"South Indian",
 occasion:"Traditional",
 price:5999,
 image:"images/temp10.jpg"
-}
+},
+{
+id:166,
+name:"Classic Kundan Necklace Set",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Wedding",
+price:5999,
+image:"images/kun1.jpg"
+},
+
+{
+id:167,
+name:"Bridal Kundan Choker",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Bridal",
+price:7499,
+image:"images/kun2.jpg"
+},
+
+{
+id:168,
+name:"Layered Kundan Haar",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Reception",
+price:6999,
+image:"images/kun3.jpg"
+},
+
+{
+id:169,
+name:"Pearl Kundan Set",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Wedding",
+price:6499,
+image:"images/kun4.jpg"
+},
+
+{
+id:170,
+name:"Royal Kundan Necklace",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Bridal",
+price:8499,
+image:"images/kun5.jpg"
+},
+
+{
+id:171,
+name:"Green Stone Kundan Set",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Reception",
+price:46999,
+image:"images/kun6.jpg"
+},
+
+{
+id:172,
+name:"Meenakari Kundan Jewellery",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Wedding",
+price:7999,
+image:"images/kun7.jpg"
+},
+
+{
+id:173,
+name:"Traditional Kundan Earrings",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Festival",
+price:2999,
+image:"images/kun8.jpg"
+},
+
+{
+id:174,
+name:"Statement Kundan Choker",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Sangeet",
+price:5499,
+image:"images/kun9.jpg"
+},
+
+{
+id:175,
+name:"Grand Bridal Kundan Set",
+category:"Jewellery",
+type:"Kundan",
+heritage:"North Indian",
+occasion:"Bridal",
+price:69999,
+image:"images/kun10.jpg"
+},
 ];
