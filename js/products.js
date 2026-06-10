@@ -1959,4 +1959,113 @@ occasion:"Bridal",
 price:2999,
 image:"images/jhum10.jpg"
 },
+{
+id:196,
+name:"Pearl Choker Set",
+category:"Jewellery",
+type:"Choker",
+heritage:"Modern",
+occasion:"Reception",
+price:3499,
+image:"images/cgok1.jpg"
+},
+
+{
+id:197,
+name:"Kundan Choker Necklace",
+category:"Jewellery",
+type:"Choker",
+heritage:"North Indian",
+occasion:"Wedding",
+price:4999,
+image:"images/chok2.jpg"
+},
+
+{
+id:198,
+name:"Temple Choker Set",
+category:"Jewellery",
+type:"Choker",
+heritage:"South Indian",
+occasion:"Bridal",
+price:5499,
+image:"images/chok3.jpg"
+},
+
+{
+id:199,
+name:"Polki Choker Necklace",
+category:"Jewellery",
+type:"Choker",
+heritage:"Rajput",
+occasion:"Wedding",
+price:6499,
+image:"images/chok4.jpg"
+},
+
+{
+id:200,
+name:"Floral Choker Set",
+category:"Jewellery",
+type:"Choker",
+heritage:"Modern",
+occasion:"Haldi",
+price:1299,
+image:"images/chok5.jpg"
+},
+
+{
+id:201,
+name:"Stone Studded Choker",
+category:"Jewellery",
+type:"Choker",
+heritage:"Modern",
+occasion:"Sangeet",
+price:2999,
+image:"images/chok6.jpg"
+},
+
+{
+id:202,
+name:"Emerald Choker Necklace",
+category:"Jewellery",
+type:"Choker",
+heritage:"Modern",
+occasion:"Reception",
+price:6999,
+image:"images/chok7.jpg"
+},
+
+{
+id:203,
+name:"Layered Bridal Choker",
+category:"Jewellery",
+type:"Choker",
+heritage:"Indian",
+occasion:"Bridal",
+price:7999,
+image:"images/chok8.jpg"
+},
+
+{
+id:204,
+name:"Victorian Choker Set",
+category:"Jewellery",
+type:"Choker",
+heritage:"Modern",
+occasion:"Reception",
+price:5999,
+image:"images/chok9.jpg"
+},
+
+{
+id:205,
+name:"Statement Party Choker",
+category:"Jewellery",
+type:"Choker",
+heritage:"Modern",
+occasion:"Party",
+price:2499,
+image:"images/chok10.jpg"
+},
 ];
