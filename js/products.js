@@ -1850,4 +1850,113 @@ occasion:"Reception",
 price:16999,
 image:"images/dia10.jpg"
 },
+{
+id:186,
+name:"Traditional Gold Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Indian",
+occasion:"Festival",
+price:1499,
+image:"images/jhum1.jpg"
+},
+
+{
+id:187,
+name:"Temple Jhumka Earrings",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"South Indian",
+occasion:"Wedding",
+price:1999,
+image:"images/jhum2.jpg"
+},
+
+{
+id:188,
+name:"Kundan Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"North Indian",
+occasion:"Wedding",
+price:2499,
+image:"images/jhum3.jpg"
+},
+
+{
+id:189,
+name:"Pearl Drop Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Modern",
+occasion:"Reception",
+price:1799,
+image:"images/jhum4.jpg"
+},
+
+{
+id:190,
+name:"Oxidised Silver Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Boho",
+occasion:"Casual",
+price:999,
+image:"images/jhum5.jpg"
+},
+
+{
+id:191,
+name:"Mirror Work Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Gujarati",
+occasion:"Mehendi",
+price:1499,
+image:"images/jhum6.jpg"
+},
+
+{
+id:192,
+name:"Lotus Design Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Indian",
+occasion:"Festival",
+price:1699,
+image:"images/jhum7.jpg"
+},
+
+{
+id:193,
+name:"Chandbali Style Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Mughal",
+occasion:"Wedding",
+price:2299,
+image:"images/jhum8.jpg"
+},
+
+{
+id:194,
+name:"Antique Finish Jhumkas",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Indian",
+occasion:"Traditional",
+price:1899,
+image:"images/jhum9.jpg"
+},
+
+{
+id:195,
+name:"Bridal Jhumka Collection",
+category:"Jewellery",
+type:"Jhumka",
+heritage:"Indian",
+occasion:"Bridal",
+price:2999,
+image:"images/jhum10.jpg"
+},
 ];
