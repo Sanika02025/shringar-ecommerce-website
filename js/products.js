@@ -2068,4 +2068,113 @@ occasion:"Party",
 price:2499,
 image:"images/chok10.jpg"
 },
+{
+id:181,
+name:"Traditional Oxidised Choker Set",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Rajasthani",
+occasion:"Festival",
+price:1499,
+image:"images/oxi1.jpg"
+},
+
+{
+id:182,
+name:"Mirror Oxidised Necklace",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Gujarati",
+occasion:"Mehendi",
+price:1799,
+image:"images/oxi2.jpg"
+},
+
+{
+id:183,
+name:"Antique Oxidised Jewellery Set",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Traditional",
+occasion:"Garba Event",
+price:1999,
+image:"images/oxi3.jpg"
+},
+
+{
+id:184,
+name:"Boho Oxidised Necklace",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Contemporary",
+occasion:"Casual",
+price:1299,
+image:"images/oxi4.jpg"
+},
+
+{
+id:185,
+name:"Oxidised Coin Necklace Set",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"South Indian",
+occasion:"Festival",
+price:2699,
+image:"images/oxi5.jpg"
+},
+
+{
+id:186,
+name:"Oxidised Peacock Jewellery Set",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Traditional",
+occasion:"Wedding",
+price:2199,
+image:"images/oxi6.jpg"
+},
+
+{
+id:187,
+name:"Tribal Oxidised Necklace",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Tribal",
+occasion:"Festival",
+price:1899,
+image:"images/oxi7.jpg"
+},
+
+{
+id:188,
+name:"Oxidised Layered Necklace",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Modern Ethnic",
+occasion:"Casual",
+price:2399,
+image:"images/oxi8.jpg"
+},
+
+{
+id:189,
+name:"Vintage Oxidised Jewellery Set",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Traditional",
+occasion:"Reception",
+price:2499,
+image:"images/oxi9.jpg"
+},
+
+{
+id:190,
+name:"Statement Oxidised Choker",
+category:"Jewellery",
+type:"Oxidised",
+heritage:"Bohemian",
+occasion:"Sangeet",
+price:1599,
+image:"images/oxi10.jpg"
+}
 ];
