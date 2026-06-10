@@ -2176,5 +2176,114 @@ heritage:"Bohemian",
 occasion:"Sangeet",
 price:1599,
 image:"images/oxi10.jpg"
-}
+},
+{
+id:191,
+name:"Classic Black Bead Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"Traditional",
+occasion:"Wedding",
+price:2499,
+image:"images/man1.jpg"
+},
+
+{
+id:192,
+name:"Gold Plated Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"Maharashtrian",
+occasion:"Wedding",
+price:2999,
+image:"images/man2.jpg"
+},
+
+{
+id:193,
+name:"Diamond Touch Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"Modern",
+occasion:"Reception",
+price:3499,
+image:"images/man3.jpg"
+},
+
+{
+id:194,
+name:"Daily Wear Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"Contemporary",
+occasion:"Casual",
+price:1899,
+image:"images/man4.jpg"
+},
+
+{
+id:195,
+name:"Double Chain Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"Traditional",
+occasion:"Wedding",
+price:2799,
+image:"images/man5.jpg"
+},
+
+{
+id:196,
+name:"Peacock Design Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"South Indian",
+occasion:"Festival",
+price:3199,
+image:"images/man6.jpg"
+},
+
+{
+id:197,
+name:"Minimalist Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"Modern",
+occasion:"Casual",
+price:1599,
+image:"images/man7.jpg"
+},
+
+{
+id:198,
+name:"Royal Bridal Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"Traditional",
+occasion:"Bridal",
+price:4499,
+image:"images/man8.jpg"
+},
+
+{
+id:199,
+name:"Temple Inspired Mangalsutra",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"South Indian",
+occasion:"Wedding",
+price:3899,
+image:"images/man9.jpg"
+},
+
+{
+id:200,
+name:"Kundan Mangalsutra Set",
+category:"Jewellery",
+type:"Mangalsutra",
+heritage:"North Indian",
+occasion:"Reception",
+price:3599,
+image:"images/man10.jpg"
+},
 ];
