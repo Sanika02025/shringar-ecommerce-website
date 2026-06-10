@@ -2286,4 +2286,113 @@ occasion:"Reception",
 price:3599,
 image:"images/man10.jpg"
 },
+{
+id:201,
+name:"Traditional Maharashtrian Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"Maharashtrian",
+occasion:"Wedding",
+price:999,
+image:"images/nath1.jpg"
+},
+
+{
+id:202,
+name:"Peshwai Pearl Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"Maharashtrian",
+occasion:"Bridal",
+price:1299,
+image:"images/nath2.jpg"
+},
+
+{
+id:203,
+name:"Royal Bridal Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"Traditional",
+occasion:"Bridal",
+price:1599,
+image:"images/nath3.jpg"
+},
+
+{
+id:204,
+name:"Kundan Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"North Indian",
+occasion:"Wedding",
+price:1399,
+image:"images/nath4.jpg"
+},
+
+{
+id:205,
+name:"Stone Studded Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"Modern",
+occasion:"Reception",
+price:1199,
+image:"images/nath5.jpg"
+},
+
+{
+id:206,
+name:"Floral Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"Contemporary",
+occasion:"Haldi",
+price:899,
+image:"images/nath6.jpg"
+},
+
+{
+id:207,
+name:"Pearl Bridal Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"Traditional",
+occasion:"Wedding",
+price:1499,
+image:"images/nath7.jpg"
+},
+
+{
+id:208,
+name:"Temple Style Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"South Indian",
+occasion:"Festival",
+price:1099,
+image:"images/nath8.jpg"
+},
+
+{
+id:209,
+name:"Antique Gold Nath",
+category:"Jewellery",
+type:"Nath",
+heritage:"Traditional",
+occasion:"Reception",
+price:1699,
+image:"images/nath9.jpg"
+},
+
+{
+id:210,
+name:"Designer Nath Collection",
+category:"Jewellery",
+type:"Nath",
+heritage:"Modern",
+occasion:"Sangeet",
+price:1799,
+image:"images/nath10.jpg"
+},
 ];
